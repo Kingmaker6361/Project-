@@ -6,4 +6,3 @@ folium
 streamlit-folium
 plotly
 tensorflow
-sqlite3
